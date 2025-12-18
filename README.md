@@ -1,2 +1,2 @@
 # Movie-Recommender-System
-A Python and Streamlit web app that recommends movies based on your preferences using content-based filtering, showing movie title, genre, director, description, and rating with a stylish interactive UI.
+Automated Smart Attendance System using Python and Facial Recognition to record attendance efficiently.
